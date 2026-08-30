@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=QwixxTwix&fontSize=50&animation=fadeIn" width="100%" alt="banner"/>
 </div>
 
-<!-- Социальные сети и счетчик -->
+<!-- Социальные сети (без счетчика просмотров) -->
 <div align="center">
   <a href="https://www.youtube.com/channel/UCDHNMwAGEbDB9k8BOwZTKIw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -19,8 +19,6 @@
   <a href="https://github.com/QwixxTwix">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=Просмотры профиля&color=9B59B6&style=flat-square" alt="views" />
 </div>
 
 ---
@@ -69,19 +67,21 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <!-- Сервис demolab.com стабильно работает и отлично выглядит -->
+  <!-- Использую только стабильный сервер демолаб -->
   <img src="https://streak-stats.demolab.com?user=QwixxTwix&theme=shades-of-purple&hide_border=true&locale=ru&hide_total_contributions=true" alt="Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwixxTwix&layout=compact&theme=shades-of-purple&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Langs" />
 </div>
 
 ---
 
 ## 🚀 Избранные проекты
 
+<!-- Убраны битые карточки, добавлены красивые текстовые ссылки -->
 <div align="center">
-  <a href="https://github.com/QwixxTwix/OzonProfit-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QwixxTwix&repo=OzonProfit-Bot&theme=shades-of-purple&hide_border=true" />
+  <a href="https://github.com/QwixxTwix/OzonProfit-Bot" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%F0%9F%92%B0%20OzonProfit%20Bot-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="OzonProfit Bot"/>
+  </a>
+  <a href="https://github.com/QwixxTwix/Discord-Test-Token" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Discord%20Test%20Token-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="Discord Test Token"/>
   </a>
 </div>
 
