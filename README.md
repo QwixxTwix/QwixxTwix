@@ -1,9 +1,9 @@
-<!-- Заголовок с анимированной печатью (работает через https://readme-typing-svg.demolab.com) -->
+<!-- Заголовок с анимированной печатью (Новый текст + флаг РФ) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+QwixxTwix+%F0%9F%91%8B;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%F0%9F%87%BA%F0%9F%87%A6;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+Java+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%20%D0%BA%D0%BE%D1%84%D0%B5%20%D0%B2%20%D0%BA%D0%BE%D0%B4%20%E2%98%95;Java%20%26%20Python%20%E2%80%94%20%D0%BC%D0%BE%D1%8F%20%D1%81%D1%82%D0%B8%D1%85%D0%B8%D1%8F;%D0%9F%D0%B8%D1%88%D1%83%20%D0%B1%D0%BE%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%D1%8B%20%F0%9F%A4%96;%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%8F%3A%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%BE%D1%82%D0%B0%20%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<!-- Баннер (Заменил Discord на стабильный генератор капсул) -->
+<!-- Баннер (Заменен на стабильный генератор капсул) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=QwixxTwix&fontSize=50" width="100%" alt="banner"/>
 </div>
@@ -16,13 +16,12 @@
   <a href="https://t.me/idqwixxa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <!-- Добавьте другие соцсети при необходимости -->
   <a href="https://github.com/QwixxTwix">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<!-- Счётчик посетителей (необязательно) -->
+<!-- Счётчик посетителей -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=Просмотры&color=9B59B6&style=flat-square" alt="views" />
 </div>
@@ -84,7 +83,7 @@
   </table>
 </div>
 
-<!-- Дополнительная карточка с общей статистикой (опционально) -->
+<!-- Дополнительная карточка с общей статистикой -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QwixxTwix&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true&locale=ru&cache_seconds=86400" alt="GitHub Stats" />
 </div>
@@ -92,7 +91,7 @@
 ---
 
 ## 📌 Избранные проекты
-<!-- ВАЖНО: Замените "ваш-репозиторий" и "другой-репозиторий" на реальные названия ваших репозиториев на GitHub, иначе картинки не загрузятся! -->
+<!-- ЗАМЕНИТЕ "ваш-репозиторий" и "другой-репозиторий" на реальные названия ваших репозиториев на GitHub -->
 <div align="center">
   <a href="https://github.com/QwixxTwix/ваш-репозиторий">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QwixxTwix&repo=ваш-репозиторий&theme=shades-of-purple&hide_border=true" />
@@ -105,20 +104,18 @@
 ---
 
 ## 📝 Последние действия
-<!-- Можно добавить динамический виджет с последними коммитами, но для этого нужен сервис -->
-<!-- Пока просто пример -->
 - 🚀 Недавно обновил [проект 1]
 - 📚 Читаю книгу по алгоритмам
 
 ---
 
-<!-- Блок змейки закомментирован, так как она требует настройки GitHub Actions.
+<!-- Блок змейки закомментирован, так как требует настройки GitHub Actions (см. инструкцию выше). 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QwixxTwix/QwixxTwix/output/snake.svg" alt="snake" />
 </p>
 -->
 
-<!-- Ссылка на лицензию (необязательно) -->
+<!-- Ссылка на лицензию -->
 <p align="center">
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
