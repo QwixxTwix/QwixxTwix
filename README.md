@@ -90,7 +90,7 @@
 
 ## 🚀 Избранные проекты
 
-- **[OzonProfit-Bot]** - Описание проекта. `[Ссылка на GitHub](https://github.com/QwixxTwix/проект-1)`
+- **[OzonProfit-Bot]** - Описание проекта. `[Ссылка на GitHub]([https://github.com/QwixxTwix/OzonProfit-Bot])`
 
 ---
 
