@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+QwixxTwix+%F0%9F%91%8B;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%F0%9F%87%BA%F0%9F%87%A6;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+Java+%26+Python" alt="Typing SVG" />
 </h1>
 
-<!-- Баннер (оставьте свой или замените на более красочный) -->
+<!-- Баннер (Заменил Discord на стабильный генератор капсул) -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1128237250614923297/1130006352371138560/standard.gif" width="800" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=QwixxTwix&fontSize=50" width="100%" alt="banner"/>
 </div>
 
 <!-- Социальные сети с улучшенными бейджами -->
@@ -73,10 +73,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwixxTwix&layout=compact&theme=shades-of-purple&langs_count=8&hide_border=true" alt="Top Langs" />
+        <!-- Добавлен cache_seconds=86400 для избежания ошибок перегрузки сервера -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwixxTwix&layout=compact&theme=shades-of-purple&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Langs" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=QwixxTwix&theme=shades-of-purple&hide_border=true&locale=ru&hide_total_contributions=true" alt="Streak Stats" />
+        <!-- Ссылка обновлена на демо-сервер демолаб -->
+        <img src="https://streak-stats.demolab.com?user=QwixxTwix&theme=shades-of-purple&hide_border=true&locale=ru&hide_total_contributions=true" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -84,13 +86,13 @@
 
 <!-- Дополнительная карточка с общей статистикой (опционально) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QwixxTwix&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QwixxTwix&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true&locale=ru&cache_seconds=86400" alt="GitHub Stats" />
 </div>
 
 ---
 
 ## 📌 Избранные проекты
-<!-- Замените ссылки и названия на свои проекты -->
+<!-- ВАЖНО: Замените "ваш-репозиторий" и "другой-репозиторий" на реальные названия ваших репозиториев на GitHub, иначе картинки не загрузятся! -->
 <div align="center">
   <a href="https://github.com/QwixxTwix/ваш-репозиторий">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QwixxTwix&repo=ваш-репозиторий&theme=shades-of-purple&hide_border=true" />
@@ -110,9 +112,11 @@
 
 ---
 
+<!-- Блок змейки закомментирован, так как она требует настройки GitHub Actions.
 <p align="center">
   <img src="https://raw.githubusercontent.com/QwixxTwix/QwixxTwix/output/snake.svg" alt="snake" />
 </p>
+-->
 
 <!-- Ссылка на лицензию (необязательно) -->
 <p align="center">
