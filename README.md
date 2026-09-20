@@ -75,7 +75,7 @@
   <a href="https://github.com/QwixxTwix/OzonProfit-Bot">
     <img src="https://img.shields.io/badge/OzonProfit%20Bot-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="OzonProfit Bot"/>
   </a>
-  <a href="https://github.com/QwixxTwix/Discord-Test-Token">
+  <a href="https://github.com/QwixxTwix/AuroraWin">
     <img src="https://img.shields.io/badge/Discord%20Test%20Token-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="Discord Test Token"/>
   </a>
 </div>
