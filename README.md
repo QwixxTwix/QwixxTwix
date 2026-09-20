@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/OzonProfit%20Bot-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="OzonProfit Bot"/>
   </a>
   <a href="https://github.com/QwixxTwix/AuroraWin">
-    <img src="https://img.shields.io/badge/AuroraWin-5E5CE6?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="AuroraWin"/>
+    <img src="https://img.shields.io/badge/AuroraWin-5391FE?style=for-the-badge&logoColor=white" alt="AuroraWin"/>
   </a>
 </div>
 
