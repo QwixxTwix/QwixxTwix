@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=500&height=50&lines=Toolsmith+%7C+Security+Author](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&height=50&lines=Toolsmith+%7C+Security+Author](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&height=50&lines=Toolsmith+%7C+Security+Author))"/>
+  <b>Toolsmith &nbsp;•&nbsp; Security Author &nbsp;•&nbsp; Automation Engineer</b>
 </p>
 
 <p align="center">
