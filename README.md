@@ -1,14 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=180&section=header&text=QwixxTwix&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=58" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=150&section=header&text=QwixxTwix&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=62&descSize=15" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&height=50&lines=Toolsmith;Security+Author;Automation+Engineer"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&height=40&lines=Toolsmith;Security+Author;Automation+Engineer"/>
-
-<img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=VIEWS&color=ff3b3b&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=ff3b3b"/>
-<img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=ff3b3b"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=VIEWS&color=ff3b3b&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=ff3b3b"/>
+  <img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=ff3b3b"/>
+</p>
 
 ---
 
@@ -29,19 +31,19 @@
 
 ## 🧰 Стек
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -89,10 +91,10 @@ WPF-оптимизатор Windows 10/11 на PowerShell. 50+ утилит че�
 
 ## 📊 Статистика
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=QwixxTwix&theme=dark&hide_border=true&background=0a0a0a&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=ffdada&dates=888888"/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=QwixxTwix&theme=dark&hide_border=true&background=0a0a0a&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=ffdada&dates=888888"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=100&section=footer" width="100%"/>
+</p>
