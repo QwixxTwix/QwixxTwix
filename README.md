@@ -1,40 +1,29 @@
-```markdown
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!-- ██  QwixxTwix // Profile config. Код читается, но не всеми.    ██ -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=200&section=header&text=QwixxTwix&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=180&section=header&text=QwixxTwix&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=58&descSize=15" width="100%"/>
 
 <a href="https://github.com/QwixxTwix">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Malware+Dev+%7C+Bot+Smith+%7C+Security+Toolkit+Author;Java+%2F+Python+%2F+PowerShell+%2F+Rust;%22I+automate+the+boring%2C+secure+the+rest.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=550&height=50&lines=Toolsmith+%7C+Bot+Smith+%7C+Security+Author;Java+%2F+Python+%2F+PowerShell+%2F+Rust;%22I+automate+the+boring.%22" alt="Typing"/>
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=00ff9c" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=00ff9c" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=VIEWS&color=00ff9c&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=00ff9c"/>
+  <img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=00ff9c"/>
 </p>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### ⚡ `> whoami`
+## ⚡ `> whoami`
 
 ```yaml
-# ─── Идентификация ───
 handle:   QwixxTwix
 alias:    idqwixxa
 role:     Toolsmith & Automation Engineer
 location: somewhere between 127.0.0.1 and ::1
 status:   Building things that break things (ethically)
-```
 
 Я строю инструменты, которые решают конкретные задачи: от автоматизации рутины до анализа безопасности. Не люблю «Hello World» в портфолио — только законченные вещи, которые можно запустить и использовать.
 
