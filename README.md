@@ -73,4 +73,5 @@ Python API Utility
 <img src="https://streak-stats.demolab.com/?user=QwixxTwix&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=6e7681" alt="Streak"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=QwixxTwix&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" alt="Activity" width="100%"/>
 🐍 Вклад
 <img src="https://raw.githubusercontent.com/QwixxTwix/QwixxTwix/output/snake-dark.svg" alt="Snake" width="100%"/>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%"/> </div> 
+```
