@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=180&section=header&text=QwixxTwix&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=180&section=header&text=QwixxTwix&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Automation%20%7C%20Security%20Tooling&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=500&height=50&lines=Toolsmith+%7C+Security+Author"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=500&height=50&lines=Toolsmith+%7C+Security+Author"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=VIEWS&color=00ff9c&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=00ff9c"/>
-  <img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=00ff9c"/>
+  <img src="https://komarev.com/ghpvc/?username=QwixxTwix&label=VIEWS&color=ff3b3b&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/QwixxTwix?label=FOLLOWERS&style=for-the-badge&color=ff3b3b"/>
+  <img src="https://img.shields.io/github/stars/QwixxTwix?label=STARS&style=for-the-badge&color=ff3b3b"/>
 </p>
 
 ---
@@ -92,9 +92,9 @@ WPF-оптимизатор Windows 10/11 на PowerShell. 50+ утилит че�
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=QwixxTwix&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"/>
+  <img src="https://streak-stats.demolab.com/?user=QwixxTwix&theme=dark&hide_border=true&background=0a0a0a&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=ffdada&dates=888888"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3b3b,100:0a0a0a&height=100&section=footer" width="100%"/>
 </p>
