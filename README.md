@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&height=50&lines=Toolsmith;Security+Author;Automation+Engineer"/>
+  <img src="https://img.shields.io/badge/⚡_Toolsmith-ff3b3b?style=for-the-badge&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/🛡_Security_Author-ff3b3b?style=for-the-badge&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/🤖_Automation_Engineer-ff3b3b?style=for-the-badge&labelColor=0a0a0a"/>
 </p>
 
 <p align="center">
