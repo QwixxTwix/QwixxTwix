@@ -91,6 +91,16 @@ WPF-оптимизатор Windows 10/11 на PowerShell. 50+ утилит че�
 
 ---
 
+### 🍪 Cookie-Checker
+
+Универсальный чекер cookies: авто-детект 51 сервиса (finance, social, gaming, cloud и др.), проверка валидности, вывод инфо об аккаунте. Вебхуки (Discord/Telegram/Slack), ротация прокси и User-Agent, rate-limit и ретраи.
+
+`Python` `asyncio` `Webhooks` `Security`
+
+**[→ Открыть репозиторий](https://github.com/QwixxTwix/Cookie-Checker)**
+
+---
+
 ## 📊 Статистика
 
 <p align="center">
